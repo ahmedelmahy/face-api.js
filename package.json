@@ -35,12 +35,12 @@
   "author": "justadudewhohacks",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow/tfjs-core": "1.0.3",
+    "@tensorflow/tfjs-core": "1.1.0",
     "tfjs-image-recognition-base": "^0.5.1",
     "tslib": "^1.9.3"
   },
   "devDependencies": {
-    "@tensorflow/tfjs-node": "^1.0.2",
+    "@tensorflow/tfjs-node": "^1.1.0",
     "@types/jasmine": "^3.3.12",
     "@types/node": "^11.12.0",
     "canvas": "2.0.1",
